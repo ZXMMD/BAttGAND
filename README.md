@@ -1,3 +1,3 @@
-# Black-Box Attack against GAN-Generated Image Detector with Contrastive Perturbation
+## Black-Box Attack against GAN-Generated Image Detector with Contrastive Perturbation
 
 coming soon ......
